@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-app",
+  "version": "0.1.0",
+  "description": "Proyecto de ejemplo para el ejercicio de Git Flow, versionado y releases - Despliegue de Aplicaciones",
+  "main": "src/greet.js",
+  "bin": {
+    "proyecto-app": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
